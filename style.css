@@ -1,0 +1,16 @@
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: rgb(36, 57, 41);
+    font-size: 24px;
+    font-family: sans-serif;
+    color: #FFF;
+}
+
+ul {
+    background-color: #000;
+    width: 200px;
+    list-style-type: square;
+    box-shadow: 10px 10px 5px rgba(0, 0, 0, 0.4);
+}
